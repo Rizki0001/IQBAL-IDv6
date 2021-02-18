@@ -26,9 +26,9 @@
 
 <a href="https://github.com/Rizki0001/IQBAL IDv5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rizki0001/IQBAL IDv5color=red&style=flat-square"></a>
 
-<a href="https://github.com/Ramlan666/babybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan666/babybot?color=red&style=flat-square"></a>
+<a href="https://github.com/Rizki0001/IQBAL IDv5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rizki0001/IQBAL IDv5?color=red&style=flat-square"></a>
 
-<a href="https://github.com/Ramlan666/babybot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramlan666/babybot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Rizki0001/IQBAL IDv5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rizki0001/IQBAL IDv5?label=Watchers&color=blue&style=flat-square"></a>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamlan666%2Fbabybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 
@@ -40,15 +40,101 @@
 
 <details>
 
- 
+ ### How To Editing option.json
+
+```bash
+{
+    "botName": "BOT_NAME",
+    "ownerName": "OWNER_NAME",
+    "BarBarKey": "YOUR_APIKEY",
+    "ownerNumbers": "62813xxxxxx@s.whatsapp.net",
+    "languages": "ind",
+    "botPrefix": ".",
+    "memberLimitss": "25",
+    "userDefaultLimit": "30"
+}
+```
+
+- Change ```botName``` with your Bot Name
+Example:
+```bash
+"botName": "Rizki bot",
+```
+- Change ```ownerName``` with your Name
+Example:
+```bash
+"ownerName": "Iqbal",
+```
+- Change ```BarBarKey``` with your mhankbarbar ApiKey
+Example:
+```bash
+"BarBarKey": "Beli sendiri",
+```
+- Change ```ownerNumbers``` with your WhatsApp Number ID
+Example:
+```bash
+"ownerNumbers": "0813xxxx@s.whatsapp.net",
+```
+- Change ```languages``` with your language ID
+(Coming soon)
+
+- Change ```botPrefix``` with your prefix
+Example:
+```bash
+"botPrefix": "!",
+```
+
+- Change ```memberLimitss``` with a member limits :v
+Example:
+```bash
+"memberLimitss": "35",
+```
+
+- Change ```userDefaultLimit``` with Inisial limit
+Example:
+```bash
+"userDefaultLimit": "35"
+```
+
+---
+
+## Install
+Follow The Steps Below!
+
+## For Termux
+```bash
+> pkg install update
+> pkg install upgrade
+> pkg install bash
+> pkg install imagemagic
+> pkg ffmpeg
+> termux-setup-storage
+> cd /sdcard
+> cp -r IQBAL IDv5
+> cd
+> cd IQBAL IDv5
+> bash install.sh
+```
+
+### Starting Bot
+
+```bash
+> npm start
+```
+
+### Stopping Bot
+
+```bash
+> Ctrl + Z
+```
 
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### Thanks for iqbal
 
-### WARNING
+### SUBSCRIBE
 
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+Jangan lupa subscribe channel aku To gaming 01
 
 ## NOTE:> 
 
