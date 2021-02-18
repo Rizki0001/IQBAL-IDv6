@@ -24,7 +24,7 @@
 
 <a href="https://github.com/Rizki0001/IQBAL IDv5/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rizki0001?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/Ramlan666/babybot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramlan666/babybotcolor=red&style=flat-square"></a>
+<a href="https://github.com/Rizki0001/IQBAL IDv5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rizki0001/IQBAL IDv5color=red&style=flat-square"></a>
 
 <a href="https://github.com/Ramlan666/babybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan666/babybot?color=red&style=flat-square"></a>
 
