@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Ramlan666/babybot/main/assets/R4ML4N.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/Rizki0001/img/main/Rizki.jpg" width="230" height="230"/>
 
 </p>
 
