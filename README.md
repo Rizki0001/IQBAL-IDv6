@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Rizki0001/img/main/Rizki.jpg" width="700" height="700"/>
+<img src="https://raw.githubusercontent.com/Rizki0001/img/main/Rizki.jpg" width="280" height="280"/>
 
 </p>
 
